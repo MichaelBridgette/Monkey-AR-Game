@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monkey Game", "Monkey Game.csproj", "{4C15D632-2032-462E-433A-15753B9F3E39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monkey Game.Editor", "Monkey Game.Editor.csproj", "{03FE9410-1EFE-E95E-7A3B-5EC8BD7CE93C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C15D632-2032-462E-433A-15753B9F3E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C15D632-2032-462E-433A-15753B9F3E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C15D632-2032-462E-433A-15753B9F3E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C15D632-2032-462E-433A-15753B9F3E39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03FE9410-1EFE-E95E-7A3B-5EC8BD7CE93C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03FE9410-1EFE-E95E-7A3B-5EC8BD7CE93C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03FE9410-1EFE-E95E-7A3B-5EC8BD7CE93C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03FE9410-1EFE-E95E-7A3B-5EC8BD7CE93C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
